@@ -200,3 +200,5 @@ class WeDevs_Settings_API_Test {
 
 }
 endif;
+
+new WeDevs_Settings_API_Test();
